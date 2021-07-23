@@ -121,3 +121,5 @@ client.on("message", message => {
 
 client.login('TOKEN YAZ LAN');
 
+// discord.gg/davet gelmeyi unutmayın! 
+// Methman#1000 tarafından yapıldı. Başka yerlerde paylaşmayınız!
