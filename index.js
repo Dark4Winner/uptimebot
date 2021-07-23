@@ -119,5 +119,5 @@ client.on("message", message => {
 });
 
 
-client.login('ODYzMTg5NDcyNjQ0ODI1MTE4.YOjR1w.CrUyHiUOA_XJ-57ztG61ryUn0uM');
+client.login('TOKEN YAZ LAN');
 
